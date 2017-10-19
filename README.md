@@ -3,6 +3,8 @@ This script is intended to be run at a recurring interval via a cronjob.
 
 The script takes an array of products (products.php) and checks for an active "add to cart" button on the product page. If an active button is found, an alert with a link to the product is sent to the email address in the email.php file. 
 
+Be sure to run ```composer install``` to install dependencies.
+
 ## Notes
 
 ```scrape.php``` is the entry point to the script and is the file your cronjob should run. 
