@@ -17,7 +17,7 @@ return 'email@example.com';
 
 Depending on the mail setup of your server, you may have issues with email alerts getting caught in spam filters. I get around this problem in Gmail by setting a filter for messages sent from my server and selecting the option to "Never send it to Spam." You also might consider sending the alert to your phone as a text message by forwarding the email to your phone provider's SMS gateway:
 
-AT&T [insert 10-digit number]@mms.att.net
-Sprint [insert 10-digit number]@pm.sprint.com
-T-Mobile [insert 10-digit number]@tmomail.net
+AT&T [insert 10-digit number]@mms.att.net  
+Sprint [insert 10-digit number]@pm.sprint.com  
+T-Mobile [insert 10-digit number]@tmomail.net  
 Verizon [insert 10-digit number]@vzwpix.com
